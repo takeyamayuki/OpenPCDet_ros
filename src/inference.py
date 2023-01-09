@@ -41,9 +41,9 @@ from draw_3d import Draw3DBox
 from global_def import *
 
 # Global variables
-calib_file = "/home/kin/workspace/OpenPCDet_ws/src/OpenPCDet_ros/calib_files/carla.txt"
-cfg_root = "/home/kin/workspace/OpenPCDet/tools/cfgs/"
-model_path = "/home/kin/workspace/OpenPCDet/tools/"
+calib_file = "/home/yonelab/workspace/OpenPCDet_ws/src/OpenPCDet_ros/calib_files/carla.txt"
+cfg_root = "/home/yonelab/workspace/OpenPCDet/tools/cfgs/"
+model_path = "/home/yonelab/workspace/docker_share"
 
 move_lidar_center = 20 
 threshold = 0.8
